@@ -3,8 +3,9 @@ I'm a Computer Science student who enjoys coding, problem-solving, and figuring 
 I have a solid background in programming, databases, and software development, but I’m always looking to learn something new.  
 
 ## I’m currently working on:
-- [Dietician+](https://github.com/BartlomiejJaruga/dietician_plus)
+- [Dietician+](https://github.com/JakubJagodzinski/dietician-plus)
 - [ForestHut](https://github.com/JakubJagodzinski/forest-hut)
+- 
 ## I’m currently learning:
 - [Godot](https://godotengine.org/)
 - [Rust](https://www.rust-lang.org/)
