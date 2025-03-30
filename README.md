@@ -5,6 +5,7 @@ I have a solid background in programming, databases, and software development, b
 ## I’m currently working on:
 - [Dietician+](https://github.com/JakubJagodzinski/dietician-plus)
 - [ForestHut](https://github.com/JakubJagodzinski/forest-hut)
+- [Internet Shop](https://github.com/JakubJagodzinski/internet-shop)
 
 ## I’m currently learning:
 - [Godot](https://godotengine.org/)
