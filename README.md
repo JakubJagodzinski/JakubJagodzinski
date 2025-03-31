@@ -3,7 +3,7 @@ I'm a Computer Science student who enjoys coding, problem-solving, and figuring 
 I have a solid background in programming, databases, and software development, but I’m always looking to learn something new.  
 
 ## I’m currently working on:
-- [Dietician+](https://github.com/JakubJagodzinski/dietician-plus)
+- [Dietician+](https://github.com/JakubJagodzinski/dietitian-plus-backend)
 - [ForestHut](https://github.com/JakubJagodzinski/forest-hut)
 - [Internet Shop](https://github.com/JakubJagodzinski/internet-shop)
 
