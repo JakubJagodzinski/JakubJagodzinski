@@ -10,5 +10,5 @@ I have a solid background in programming, databases, and software development, b
 
 ## I’m currently learning:
 - [Godot](https://godotengine.org/)
-- [Rust](https://www.rust-lang.org/)
 - [C#](https://dotnet.microsoft.com/en-us/languages/csharp)/[.NET](https://dotnet.microsoft.com/en-us/)
+- [MongoDB](https://www.mongodb.com/)
