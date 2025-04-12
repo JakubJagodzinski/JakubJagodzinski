@@ -5,7 +5,7 @@ I have a solid background in programming, databases, and software development, b
 ## I’m currently working on:
 - [Dietician+](https://github.com/JakubJagodzinski/dietitian-plus-backend)
 - [Internet Shop](https://github.com/JakubJagodzinski/internet-shop-backend)
-- AIComposer - a university competency project focused on AI-driven music generation using an LSTM model. It will generate music tracks and deliver them via a web interface. Currently in the Requirements Analysis phase.
+- [AIComposer](https://github.com/JakubJagodzinski/ai-composer-backend) - a university competency project focused on AI-driven music generation using an LSTM model. It will generate music tracks and deliver them via a web interface.
 - Blood Call - a 2D bullet hell game set in a dark fantasy world, developed using the Godot game engine. The game features intense action, challenging gameplay, and a gripping atmosphere, immersing players in a dark and perilous universe.
 
 ## I’m currently learning:
