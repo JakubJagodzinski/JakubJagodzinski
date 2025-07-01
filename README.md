@@ -4,4 +4,3 @@ I have a solid background in programming, databases, and software development, b
 
 ## I’m currently working on:
 - [Dietitian+](https://github.com/JakubJagodzinski/dietitian-plus-backend)
-- [Shopberry](https://github.com/JakubJagodzinski/shopberry-backend)
